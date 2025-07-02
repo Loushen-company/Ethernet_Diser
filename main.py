@@ -1,4 +1,3 @@
-assa
 import psutil, time, subprocess, sys, signal
 from firewall import block_apps, unblock_all
 from optimizer import disable_services, enable_services
